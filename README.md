@@ -8,5 +8,5 @@ List of Projects:
 - Using SQL to analyze Covid related data from https://ourworldindata.org/covid-deaths
 - Inspired by Alex the Analyst YouTube Channel https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg
 2. Covid Data Visualization
-- Using Tableau to visualize analysis in Project 1
+- Using Tableau to visualize analysis in Covid Data Analysis Project 
 - Dashboard can be found here. https://public.tableau.com/app/profile/minh.le4374/viz/CovidStatisticsDashboard_16426313445680/Dashboard1
