@@ -11,6 +11,6 @@ List of Projects:
 - Used SQL to create queries for visualization
 - Used Tableau to visualize analysis in Covid Data Analysis Project 
 - Dashboard can be found here. https://public.tableau.com/app/profile/minh.le4374/viz/CovidStatisticsDashboard_16426313445680/Dashboard1
-3. NashVille House Data Cleaning
+3. Nashville House Data Cleaning
 - Used SQL to clean Nashville House Data
 - Work done: standardized date format; added missing data, splitted address into address, city, state, and more 
