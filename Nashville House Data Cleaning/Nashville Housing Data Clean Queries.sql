@@ -72,7 +72,6 @@ Where PropertyAddress is null
 
 
 -- Updating the Property Address first
-
 Select PropertyAddress
 From [Portfolio Database]..NashvilleHousing
 
