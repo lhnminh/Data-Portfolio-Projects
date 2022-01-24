@@ -6,7 +6,7 @@ I'm currently exploring SQL, Tableau and R.
 List of Projects:
 1. [Covid Data Analysis](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Covid%20Data%20Analysis)
 - Used SQL to analyze Covid related data from https://ourworldindata.org/covid-deaths
-- Inspired by [Alex the Analyst YouTube Channel](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
+- Techniques used: Join, CTE's, Temp Tables, Windows Funcions, Aggregate Functions, Creating Vies, Converting Data Types
 2. [Covid Data Visualization](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Covid%20Data%20Visualization)
 - Used SQL to create queries for visualization
 - Used Tableau to visualize analysis in Covid Data Analysis Project 
