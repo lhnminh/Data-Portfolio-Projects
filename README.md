@@ -1,7 +1,7 @@
 # Data Portfolio Projects
 This repo consists of data analyst portfolio project that I haved worked and currently working on.
 
-I'm currently exploring SQL, Tableau and R. 
+I'm currently exploring SQL, Tableau, R, and Python. 
 
 List of Projects:
 1. [Covid Data Analysis](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Covid%20Data%20Analysis)
