@@ -14,6 +14,6 @@ List of Projects:
 3. [Nashville House Data Cleaning](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Nashville%20House%20Data%20Cleaning)
 - Used SQL to clean Nashville House Data
 - Technique used: Joins, Alter, Update, CTEs, Case
-4. Amazon Web Scraping
+4. [Amazon Web Scraping](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Amazon%20Web%20Scraping)
 - Used Python to scrape data from an Amazon Product Page
 - Export data scraped into a csv file
