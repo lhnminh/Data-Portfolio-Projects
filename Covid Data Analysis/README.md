@@ -6,4 +6,4 @@ This repository consists of files that I used for this project
 - I splitted the data into 2 files Covid Death and Covid Vaccination
 2. Covid_Project_Query.sql
 - Contains queries to highlight key analysis of Covid Data Globally and Locally (United States) 
-- Techniques used: Join, CTE's, Temp Tables, Windows Funcions, Aggregate Functions, Creating Vies, Converting Data Types 
+- Techniques used: Join, CTE's, Temp Tables, Windows Funcions, Aggregate Functions, Creating Views, Converting Data Types 
