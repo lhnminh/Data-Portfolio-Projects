@@ -19,6 +19,4 @@ List of Projects:
 - Export data scraped into a csv file
 5. [GDSC Excel Workshop](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/GDSC%20Excel%20Workshop)
 - Intermediate Workshop on Excel for individuals want to maximize their Excel speed
-- Working on a video to go over the sheet
-
-
+- With a video to go over the sheet
