@@ -20,3 +20,5 @@ List of Projects:
 5. [GDSC Excel Workshop](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/GDSC%20Excel%20Workshop)
 - Intermediate Workshop on Excel for individuals want to maximize their Excel speed
 - With a video to go over the sheet
+6. [Intern Search Statistics](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Intern%20Search%20Statistics)
+- Summarized statistics of own personal job search for summer 2022
