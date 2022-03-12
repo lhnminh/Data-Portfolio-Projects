@@ -21,4 +21,9 @@ List of Projects:
 - Intermediate Workshop on Excel for individuals want to maximize their Excel speed
 - With a video to go over the sheet
 6. [Intern Search Statistics](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Intern%20Search%20Statistics)
+
 - Summarized statistics of own personal job search for summer 2022
+- Cleaned data using Excel
+- SQL Techniques used: Join, Temp Tables, Window Functions, Aggregate Functions
+- Used Tableau to visualize finding
+
