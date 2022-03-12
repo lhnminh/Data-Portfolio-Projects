@@ -1,7 +1,7 @@
 # Internship Search Statistics
 This projects looks into my personal journey as I was searching for an internship for summer 2022
 
-WIP - Look at the visualization and create a story
+WIP - Look at the visualization and write a story
 
 This repository consists of files that I used for this project
 
