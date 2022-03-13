@@ -24,7 +24,7 @@ This repository consists of files that I used for this project
 - The excel files extracted after using SQL, reflecting job applied per day
 8. Intern Search Dashboard
 - Used Tableau to create a dashboard visualizing my job search each day.
-- The dashboard can be found [here](https://public.tableau.com/app/profile/minh.le4374/viz/InternshipSearchStatistics/Dashboard1?publish=yes)
+- The dashboard can be found [here](https://public.tableau.com/app/profile/minh.le4374/viz/InternshipSearchStatistics/MainDashboard?publish=yes)
 
 
 
