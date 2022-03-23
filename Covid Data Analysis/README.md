@@ -1,6 +1,8 @@
 # Covid Data Analysis
 
-This repository consists of files that I used for this project
+This project demonstrates how to perform intermediate SQL queries agaisnt real Covid related data contains Covid Vaccination, Covid Death, etc. 
+
+
 1. Couple of Excel files:
 - Contain data gathered from https://ourworldindata.org/covid-deaths
 - I splitted the data into 2 files Covid Death and Covid Vaccination
