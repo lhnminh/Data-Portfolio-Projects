@@ -25,5 +25,5 @@ List of Projects:
 - Cleaned data using Excel
 - SQL Techniques used: Join, Temp Tables, Window Functions, Aggregate Functions
 - Used Tableau to visualize finding
-7.[Google Maps Query Visualization](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Google%20Maps%20Query%20Visualization)
+7. [Google Maps Query Visualization](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Google%20Maps%20Query%20Visualization)
 - WIP
