@@ -1,9 +1,9 @@
 # Internship Search Statistics
-This projects looks into my personal journey as I was searching for an internship for summer 2022
+This projects looks into my personal journey as I was searching for an internship for summer 2022. It demonstrates how to clean data using Excel, visualizing data using Tableau, query data using SQL.  
 
 WIP - Look at the visualization and write a story
 
-This repository consists of files that I used for this project
+Files
 
 1. Internship Search - Original.xlsx
 - Uncleaned, original excel file tracking my internship search
