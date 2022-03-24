@@ -1,5 +1,7 @@
 # Nashville House Data Cleaning  
-This repository consists of files that I used for the projects
+This project demostrates how to clean data using SQL. 
+
+Files:
 1. Nashville Housing Data for Data Cleaning.xlsx
 - Contains data that needed to be cleaned
 2. Nashville Housing Data Clean Queries.sql
