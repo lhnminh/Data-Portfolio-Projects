@@ -4,9 +4,9 @@
 
 Main dashboard can be found [here](https://public.tableau.com/app/profile/minh.le4374/viz/CovidStatisticsDashboard_16426313445680/Dashboard1)
 
-This repository consists of files that I used to create the data visualization.
+This project demonstrates how to visualize finding using Tableau. It is an extension from a previous project which can be found [here](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Covid%20Data%20Analysis)
 
-To be specifics:
+Files: 
 1. TableauQuery.sql
 - This sql file contain queries that I used for the data to be visualize
 2. 4 Excel files
