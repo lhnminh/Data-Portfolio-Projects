@@ -26,4 +26,6 @@ List of Projects:
 - SQL Techniques used: Join, Temp Tables, Window Functions, Aggregate Functions
 - Used Tableau to visualize finding
 7. [Google Maps Query Visualization](https://github.com/lhnminh/Data-Portfolio-Projects/tree/main/Google%20Maps%20Query%20Visualization)
-- WIP
+- Performe geospatial queries against a Google BigQuery Table
+- Present visual interface for the queries and the results using Google Maps Platform's Maps JavaScript API
+- Technologies/Languages Used: Google Cloud Console, JavaScript, SQL, HTML, CSS 
