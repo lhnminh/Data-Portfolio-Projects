@@ -24,7 +24,7 @@ Files
 - The excel files extracted after using SQL, reflecting job applied per day
 8. Intern Search Dashboard
 - Used Tableau to create a dashboard visualizing my job search each day.
-- The dashboard can be found [here]([https://public.tableau.com/app/profile/minh.le4374/viz/InternshipSearchStatistics/MainDashboard?publish=yes](https://public.tableau.com/app/profile/minh.le4374/viz/ApplicationsRejectionsPerDay/Dashboard1))
+- The dashboard can be found [here](https://public.tableau.com/app/profile/minh.le4374/viz/ApplicationsRejectionsPerDay/Dashboard1)
 
 
 
